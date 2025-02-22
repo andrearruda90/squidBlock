@@ -1,0 +1,2 @@
+# squidBlock
+Squid block page
